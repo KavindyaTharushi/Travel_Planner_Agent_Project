@@ -1,9 +1,7 @@
-<<<<<<< HEAD
+
 =======
 # Travel_Planner_Agent_Project
 
-
->>>>>>> b3d43a31fd5775a1393a52bbde56c572fe1c2be2
 # 🌍 AI Travel Planner Agent
 
 An AI-assisted Streamlit experience that turns a few travel preferences into a curated itinerary. The app blends live data (via SerpAPI) with multi-agent reasoning (powered by Agno + Gemini) to surface flight options, hotels, restaurants, and a personalized day-by-day plan.
