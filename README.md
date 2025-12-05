@@ -93,10 +93,6 @@ All agents run sequentially inside `main.py`, sharing context through the prompt
 - **Agent errors** → double-check `GOOGLE_API_KEY` permissions and network connectivity.
 - **Environment variables not loading** → confirm `.env` exists and restart the Streamlit app so `load_dotenv()` reruns.
 
-<<<<<<< HEAD
-## 📝 License
-This project is provided as-is for educational/demo purposes. Adapt or extend under your preferred terms.
 =======
 
 
->>>>>>> b3d43a31fd5775a1393a52bbde56c572fe1c2be2
